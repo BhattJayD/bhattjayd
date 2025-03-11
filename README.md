@@ -11,6 +11,8 @@ React Native Developer with 3.6 years of experience delivering 9 projects, inclu
 ![](https://github-readme-stats.vercel.app/api?username=BhattJayd&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BhattJayd&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BhattJayd&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BhattJayd&theme=github)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BhattJayd&theme=radical&no-frame=false&no-bg=false&margin-w=4)
@@ -22,7 +24,8 @@ React Native Developer with 3.6 years of experience delivering 9 projects, inclu
 ![](https://github-contributor-stats.vercel.app/api?username=BhattJayd&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BhattJayd&icon=0&color=0)](https://visitcount.itsvg.in)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/BhattJayd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=false)
+
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/splitunknwon) 
